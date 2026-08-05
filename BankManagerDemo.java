@@ -432,7 +432,8 @@ public class BankManagerDemo {
         BANK.printTransactionHistory(accountNumber);
     }
 
-    // ---------- Input helpers ----------
+
+    
 
     private static String readNonEmptyString(String prompt) {
         while (true) {
